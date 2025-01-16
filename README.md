@@ -67,6 +67,7 @@ This repository requires Python 3.7+ and the following libraries:
 - `send2trash`
 - `beautifulsoup4`
 - `requests`
+- `python-docx`
 
 Make sure to install the dependencies before running the scripts. A `requirements.txt` file is included for convenience.
 
