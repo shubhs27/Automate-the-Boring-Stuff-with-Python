@@ -7,3 +7,4 @@ pyperclip
 send2trash
 beautifulsoup4
 requests
+python-docx
