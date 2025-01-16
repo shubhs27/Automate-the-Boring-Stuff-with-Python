@@ -61,7 +61,7 @@ This repository requires Python 3.7+ and the following libraries:
 - `pyautogui`
 - `pyscreeze`
 - `selenium`
-- `pypdf` (or `pypdf2`)
+- `pypdf`
 - `openpyxl`
 - `pyperclip`
 - `send2trash`
