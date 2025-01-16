@@ -1,0 +1,9 @@
+pyautogui
+pyscreeze
+selenium
+pypdf
+openpyxl
+pyperclip
+send2trash
+beautifulsoup4
+requests
